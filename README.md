@@ -33,8 +33,4 @@ As a software developer, I like to create web apps that make using technology en
 <a href="http://www.instagram.com/sinanmercury" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
 <a href="http://www.github.com/sinandmr"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sinandmr&bg_color=181824&color=ffffff&line=14b8a6&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
