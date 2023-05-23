@@ -3,9 +3,9 @@
 Hi, My name is Sinan
 ============================
 
-As a software developer, I like to create web apps that make using technology enjoyable and simple for users. NodeJS, ReactJS, and NestJS are a few of the technologies I like using. I'm constantly interested in learning new web-related technologies. I've been at [Walnut Lab.](https://walnutlab.io/) for 7 months as a full stack developer.
+As a software developer, I like to create web apps that make using technology enjoyable and simple for users. NodeJS, ReactJS, and NestJS are a few of the technologies I like using. I'm constantly interested in learning new web-related technologies. I've been at [Walnut Lab.](https://walnutlab.io/) for 9 months as a full stack developer.
 
-* 🌍  I'm based in Alanya
+* 🌍  I'm based in Ankara
 * ✉️  You can contact me at [sinanndmrr@gmail.com](mailto:sinanndmrr@gmail.com)
 
 ### Skills
@@ -32,4 +32,4 @@ As a software developer, I like to create web apps that make using technology en
 <a href="http://www.instagram.com/sinanmercury" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 </p>
 
-<a href="http://www.github.com/sinandmr"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sinandmr&bg_color=181824&color=ffffff&line=14b8a6&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/sinandmr"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sinandmr&bg_color=181824&color=ffffff&line=14b8a6&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
