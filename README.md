@@ -3,7 +3,7 @@
 Hi, My name is Sinan
 ============================
 
-As a software developer, I like to create web apps that make using technology enjoyable and simple for users. NodeJS, ReactJS, and NestJS are a few of the technologies I like using. I'm constantly interested in learning new web-related technologies. I've been at [Walnut Lab.](https://walnutlab.io/) for 1 year as a full stack developer.
+As a software developer, I like to create web apps that make using technology enjoyable and simple for users. NodeJS, ReactJS, and NestJS are a few of the technologies I like using. I'm constantly interested in learning new web-related technologies.
 
 * ✉️  You can contact me at [sinanndmrr@gmail.com](mailto:sinanndmrr@gmail.com)
 
